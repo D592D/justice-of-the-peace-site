@@ -8,7 +8,7 @@ const BookingSection = () => {
         </p>
         <div className="rounded-lg shadow-md overflow-hidden">
           <iframe
-            src="https://calendly.com/your-username"
+            src="https://calendly.com/sampsonrandy1/30min"
             width="100%"
             height="700"
             frameBorder="0"
