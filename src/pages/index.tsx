@@ -131,7 +131,7 @@ const Index = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#booking"
+              href="https://calendly.com/sampsonrandy1/30min"
               className="inline-block bg-amber-400 text-slate-900 px-8 py-3 rounded-lg font-semibold hover:bg-amber-300 transition duration-300"
             >
               Contact Us
