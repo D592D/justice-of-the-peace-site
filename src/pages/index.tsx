@@ -26,7 +26,7 @@ const Index = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">Randy Sampson</h1>
           <p className="text-xl md:text-2xl text-amber-400 font-medium mb-8">
-            Justice of the Peace Services
+            Justice of the Peace/Commissioner of Oaths to Affidavits
           </p>
           <p className="text-lg md:text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
             Serving the community of Guyana with integrity, professionalism, and
