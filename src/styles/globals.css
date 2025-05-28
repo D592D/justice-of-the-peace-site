@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ─── prevent that pesky right-side white sliver ─── */
+html, body {
+  overflow-x: hidden;
+}
