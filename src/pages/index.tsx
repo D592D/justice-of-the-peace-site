@@ -51,7 +51,7 @@ export default function Index() {
               Randy Sampson
             </h1>
             <p className="text-xl md:text-2xl text-amber-400 font-medium mb-8">
-              Justice of the Peace Services
+              Justice of the Peace Services/Commissioner of Oaths to Affidavits.
             </p>
             <p className="text-lg md:text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
               Serving the community of Guyana with integrity, professionalism,
